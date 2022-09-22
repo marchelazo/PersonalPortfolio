@@ -58,12 +58,13 @@ header {
 /* hero section */
 
 #hero {
-  background-image: url(/PersonalPortfolio/imagenes/header-bg.png);
+  background-image: url(/imagenes/header-bg.png);
   height: 42rem;
   background-repeat: no-repeat;
   position: absolute;
   background-color: var(--secondary-color);
   border-bottom-left-radius: 100px;
+  display: flex;
 }
 
 .headlines {
