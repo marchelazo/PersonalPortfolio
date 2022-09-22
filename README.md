@@ -25,7 +25,6 @@
 ## Author
 
 👤 **Marcelo Garcia**
-
 - GitHub: [@githubhandle](https://github.com/marchelazo)
 - Twitter: [@twitterhandle](https://twitter.com/marchelogar)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/marcelo-garcia-3333b8156/)
