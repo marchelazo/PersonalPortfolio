@@ -110,23 +110,6 @@ header {
   list-style: none;
 }
 
-/* connect btns */
-
-.connect {
-  color: var(--text-color2);
-  font-weight: 500;
-  font-size: 1rem;
-  font-family: var(--font-fam);
-  margin-top: 12px;
-}
-
-.social-icons {
-  display: flex;
-  justify-content: space-between;
-  width: 10rem;
-  margin-top: 12px;
-  list-style: none;
-}
 /* work section */
 
 .card {
