@@ -144,6 +144,7 @@ header {
 .card-body {
   margin-top: 0.5em;
 }
+
 /* Showing bullet points */
 .compn-lan ul {
   display: grid;
